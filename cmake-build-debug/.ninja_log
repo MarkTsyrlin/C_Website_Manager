@@ -1,0 +1,17 @@
+# ninja log v5
+115	712	7464630294091894	CMakeFiles/WebsiteManager.dir/CompanyTextFile.c.obj	839167683e7816f6
+1	601	7464630292710660	CMakeFiles/WebsiteManager.dir/Candidate.c.obj	8122af8dc13146aa
+19	591	7464630292710660	CMakeFiles/WebsiteManager.dir/Client.c.obj	432a8769d2eb4e10
+51	604	7464630292710660	CMakeFiles/WebsiteManager.dir/Date.c.obj	61f1233dc3ada0c6
+140	606	7464630292710660	CMakeFiles/WebsiteManager.dir/General.c.obj	f8cf71cbe3d70ea2
+91	671	7464630293671282	CMakeFiles/WebsiteManager.dir/Company.c.obj	209e9c87ab6ee5eb
+35	609	7464630292710660	CMakeFiles/WebsiteManager.dir/Contact.c.obj	6d78e983554be474
+196	611	7464630292900705	CMakeFiles/WebsiteManager.dir/TeamMember.c.obj	f4ef24618516dd38
+5	434	7464630939451553	build.ninja	47a642246ac976a5
+24	442	7464630944520686	CMakeFiles/WebsiteManager.dir/Payment.c.obj	6ff21aa2ad5df05b
+74	502	7464630945120933	CMakeFiles/WebsiteManager.dir/Feedback.c.obj	f4c60f406405fb94
+101	544	7464630945576733	CMakeFiles/WebsiteManager.dir/Task.c.obj	8c9dc289fdd5fecd
+166	569	7464630945777081	CMakeFiles/WebsiteManager.dir/List.c.obj	705a39c23a1380f6
+141	575	7464630945875538	CMakeFiles/WebsiteManager.dir/Project.c.obj	b0bd680bf4965383
+52	627	7464630946414065	CMakeFiles/WebsiteManager.dir/projectManagement.c.obj	16aa04e6d92fa2f1
+9	638	7464630946519501	CMakeFiles/WebsiteManager.dir/CompanyBinaryFile.c.obj	7423ed46a6f05d1e

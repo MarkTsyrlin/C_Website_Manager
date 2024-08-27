@@ -1,0 +1,3 @@
+C:/Users/mark2/CLionProjects/WebsiteManager/cmake-build-debug/CMakeFiles/WebsiteManager.dir
+C:/Users/mark2/CLionProjects/WebsiteManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mark2/CLionProjects/WebsiteManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir
